@@ -10,7 +10,7 @@ function Footer() {
         transition={{ duration: 1 }} // Animation duration
         className="text-center"
       >
-        <p>Developed by <span className="font-bold">Verdant</span></p>
+        <p>Developed by <span className="font-bold">Vedant</span></p>
       </motion.div>
     </footer>
   );
